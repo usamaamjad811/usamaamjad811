@@ -62,7 +62,7 @@ I'm an AI/ML engineer with a passion for building intelligent systems using mode
 
 ## **🌍 Let's Connect**
 
-- [LinkedIn](https://www.linkedin.com/in/yourname)
+- [LinkedIn](linkedin.com/in/usama-amjad-5840b51a6)
 - [Twitter](https://twitter.com/yourhandle)
 - [Portfolio](https://your-portfolio-site.com)
   
