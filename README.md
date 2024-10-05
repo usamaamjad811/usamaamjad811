@@ -30,7 +30,7 @@ I'm an AI/ML engineer with a passion for building intelligent systems using mode
 
 ### 3. **Django-based ML Model Deployment**
    - **Repo**: [ML Model Deployment Django](https://github.com/yourusername/ml-model-django)
-   - **Description**: Deployed a **machine learning model** using Django for a web-based application. The project includes model training, serving via REST API, and integrating with a simple frontend.
+   - **Description**: Deployed a **machine learning model** using Django for a web-based application. The project includes model training, serving via REST API, and integrating with a simple front end.
    - **Tech Stack**: Django, Python, Scikit-Learn, Docker, REST API
 
 ### 4. **Flask Microservice for Image Classification**
@@ -42,13 +42,13 @@ I'm an AI/ML engineer with a passion for building intelligent systems using mode
 
 ## **🧠 Skills**
 
-- **Programming Languages**: Python, JavaScript
-- **Frameworks**: Flask, FastAPI, Django
-- **AI/ML/DL**: TensorFlow, PyTorch, Scikit-Learn, Hugging Face, LangChain
-- **Generative AI**: GPT-3, DALL·E, Stable Diffusion, Transformers
+- **Programming Languages**: Python, React Js, Next JS
+- **Frameworks**: Flask, FastAPI, Django, Langchain
+- **AI/ML/DL**: TensorFlow, PyTorch, Scikit-Learn, NLP, Hugging Face, LangChain, LlamaIndex
+- **Generative AI**: GPT-3, DALL·E, Llama3.1, Gemma2:9b/27b, Retrieval augmented generation (RAG), Stable Diffusion, Transformers, Open Source/ Closed source Models
 - **Deployment**: Docker, Kubernetes, AWS, Heroku
-- **Database**: PostgreSQL, MongoDB, SQLite
-- **Tools**: Git, GitHub, VS Code, Jupyter, Linux
+- **Database**: PostgreSQL, MongoDB, SQLite, Vector Database
+- **Tools**: Git, GitHub, VS Code, Pycharm, DataSpell, Jupyter, Linux
 
 ---
 
